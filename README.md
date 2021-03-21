@@ -137,6 +137,6 @@ Hai, Saya M.Hidayatullah Dari Lombok NTB, Saat ini masih kuliah di salah satu pe
 
 ### TEDDI RAHMAN
 
-Hallo semua para pencinta coding, Saya Teddi Dari BALI,saya lulusan PONDOK PESANTREN di bali tahun 2020, dan saya mulai belajar tentang pemerograman dari PONDOK IT selama 3-5 bulan, dan saat ini saya bekerja sebagai IT SUPPORT di salah satu PT yang berlokasi di Bandung,
+Hallo semua para pencinta coding, Saya Teddi Dari BALI, saya lulusan PONDOK PESANTREN yang berada di pulau bali pada tahun 2020, kemudian saya mulai belajar pemerograman di salah satu PONDOK IT yang berlokasi di Yogyakarta selama kurang lebih 4 bulan, dan saat ini saya bekerja sebagai IT SUPPORT di salah satu PT yang berlokasi di Bandung, #JanganLupaBismillah
 
 [https://github.com/Teddir/](https://github.com/Teddir/)
