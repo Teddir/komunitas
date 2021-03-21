@@ -132,3 +132,11 @@ Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini 
 Hai, Saya M.Hidayatullah Dari Lombok NTB, Saat ini masih kuliah di salah satu perguruan tinggi di Matarm Lombok NTB dengan jurusan Ilmu Komputer. Saya sedang fokus di Web Development.
 
 [https://github.com/M-Hidayatullah](https://github.com/M-Hidayatullah)
+
+<hr/>
+
+### TEDDI RAHMAN
+
+Hallo semua para pencinta coding, Saya Teddi Dari BALI,saya lulusan PONDOK PESANTREN di bali tahun 2020, dan saya mulai belajar tentang pemerograman dari PONDOK IT selama 3-5 bulan, dan saat ini saya bekerja sebagai IT SUPPORT di salah satu PT yang berlokasi di Bandung,
+
+[https://github.com/Teddir/](https://github.com/Teddir/)
